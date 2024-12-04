@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+.wrapper{ 
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	
+}
+
+.languages {
+	border: 2px solid black;
+	margin-top: 100px;
+	padding: 20px;
+}
+
+.forms {
+	border: 1px solid green;
+	margin-top: 50px;
+	padding: 10px;
+	background-color: lightgreen;
+}
